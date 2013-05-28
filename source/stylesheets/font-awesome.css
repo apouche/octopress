@@ -1,11 +1,11 @@
 /*
 Syntax error: Invalid CSS after "@fontAwesomePath:": expected pseudoclass or pseudoelement, was " '../font';"
-        on line 1 of /Volumes/Storage/Projects/github/octopress/sass/font-awesome.scss
+        on line 1 of /Volumes/Storage/Projects/octopress/sass/font-awesome.scss
 
-1: /Volumes/Storage/Projects/github/octopress/sass/font-awesome.scss
+1: /Volumes/Storage/Projects/octopress/sass/font-awesome.scss
 
 Backtrace:
-/Volumes/Storage/Projects/github/octopress/sass/font-awesome.scss:1
+/Volumes/Storage/Projects/octopress/sass/font-awesome.scss:1
 /Users/johan/.rvm/gems/ruby-1.9.3-p429/gems/sass-3.1.20/lib/sass/scss/parser.rb:1010:in `expected'
 /Users/johan/.rvm/gems/ruby-1.9.3-p429/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
 /Users/johan/.rvm/gems/ruby-1.9.3-p429/gems/sass-3.1.20/lib/sass/scss/parser.rb:938:in `expr!'
@@ -51,4 +51,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"@fontAwesomePath:\": expected pseudoclass or pseudoelement, was \" '../font';\"\A         on line 1 of /Volumes/Storage/Projects/github/octopress/sass/font-awesome.scss\A \A 1: /Volumes/Storage/Projects/github/octopress/sass/font-awesome.scss"; }
+  content: "Syntax error: Invalid CSS after \"@fontAwesomePath:\": expected pseudoclass or pseudoelement, was \" '../font';\"\A         on line 1 of /Volumes/Storage/Projects/octopress/sass/font-awesome.scss\A \A 1: /Volumes/Storage/Projects/octopress/sass/font-awesome.scss"; }

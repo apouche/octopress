@@ -1,9 +1,9 @@
 /*
 Syntax error: Invalid CSS after ".ie7icon": expected "{", was "(@inner) {"
-        on line 17 of /Volumes/Storage/Projects/github/octopress/sass/font-awesome-ie7.scss
+        on line 17 of /Volumes/Storage/Projects/octopress/sass/font-awesome-ie7.scss
 
 Backtrace:
-/Volumes/Storage/Projects/github/octopress/sass/font-awesome-ie7.scss:17
+/Volumes/Storage/Projects/octopress/sass/font-awesome-ie7.scss:17
 /Users/johan/.rvm/gems/ruby-1.9.3-p429/gems/sass-3.1.20/lib/sass/scss/parser.rb:1010:in `expected'
 /Users/johan/.rvm/gems/ruby-1.9.3-p429/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
 /Users/johan/.rvm/gems/ruby-1.9.3-p429/gems/sass-3.1.20/lib/sass/scss/parser.rb:951:in `tok!'
@@ -43,4 +43,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \".ie7icon\": expected \"{\", was \"(@inner) {\"\A         on line 17 of /Volumes/Storage/Projects/github/octopress/sass/font-awesome-ie7.scss"; }
+  content: "Syntax error: Invalid CSS after \".ie7icon\": expected \"{\", was \"(@inner) {\"\A         on line 17 of /Volumes/Storage/Projects/octopress/sass/font-awesome-ie7.scss"; }
