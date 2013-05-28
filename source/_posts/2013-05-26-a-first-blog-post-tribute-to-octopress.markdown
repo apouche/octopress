@@ -31,9 +31,22 @@ Once your setup is done and you have your first post created, you simply have to
 	rake generate
 	rake preview
 ```
+
 The preview command will start a webserver listenning on localhost:4000, it really is <b>THAT</b> simple.
 
 <h3>Working with images</h3>
+
+Dealing with resources is always a bit tricky, especially when you have to deploy the website.
+
+However octopress makes very easy, all folders you can add your source/images repository can be accessed, you just have to specify the url path. Here for the octopress image I simply wrote `<img src="/images/posts/octopress.png" /></a>`.
+
+Just make sure to put the absolute path so that the image is accesible from everywhere.
+
+<h3>Finding your favorite theme</h3>
+
+There are many themes available for octopress, <a href="http://opthemes.com/">opthemes</a> gives a good overview of the best looking ones.
+
+I personnally chose a <a href="https://github.com/apouche/cleanpress?source=c">slighly modified</a> version of <a href="http://carmo.org.uk/">cleanpress</a> with the defauly syntax theme set to solarized instead of the one shipped, that I found a little too gray.
 
 
 
