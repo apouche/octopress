@@ -48,5 +48,23 @@ There are many themes available for octopress, <a href="http://opthemes.com/">op
 
 I personnally chose a <a href="https://github.com/apouche/cleanpress?source=c">slighly modified</a> version of <a href="http://carmo.org.uk/">cleanpress</a> with the defauly syntax theme set to solarized instead of the one shipped, that I found a little too gray.
 
+Installation is pretty smooth:
 
+```[bash]
+cd octopress
+git clone https://github.com/apouche/cleanpress.git .themes/cleanpress
+rake install['cleanpress']
+rake generate
+```
+
+<h3>Issues between rake and zsh</h3>
+
+There is a <a href="https://github.com/robbyrussell/oh-my-zsh/issues/433">known issue</a> when using rake for example to create a post or install a template  :
+
+```
+	> rake install['cleanpress']
+	sh: no matches found: install[cleanpress]
+```
+
+To solve this, simply add `alias rake='noglob rake'` into your .zshrc file.
 
