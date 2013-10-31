@@ -50,7 +50,7 @@ I personnally chose a <a href="https://github.com/apouche/cleanpress?source=c">s
 
 Installation is pretty smooth:
 
-```[bash]
+```bash
 cd octopress
 git clone https://github.com/apouche/cleanpress.git .themes/cleanpress
 rake install['cleanpress']
