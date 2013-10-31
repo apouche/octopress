@@ -34,6 +34,14 @@ Once your setup is done and you have your first post created, you simply have to
 
 The preview command will start a webserver listenning on localhost:4000, it really is <b>THAT</b> simple.
 
+Once you're happy with the result and depending on your <a href="http://octopress.org/docs/deploying/">hosting deployment</a> choice simply run
+
+```
+  rake deploy
+```
+
+and you're done.
+
 <h3>Working with images</h3>
 
 Dealing with resources is always a bit tricky, especially when you have to deploy the website.
