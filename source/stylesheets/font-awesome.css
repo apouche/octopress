@@ -1,29 +1,24 @@
 /*
 Syntax error: Invalid CSS after "@fontAwesomePath:": expected pseudoclass or pseudoelement, was " '../font';"
-        on line 1 of /Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss
-
-1: /Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss
+        on line 25 of /Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss
 
 Backtrace:
-/Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss:1
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:1008:in `expected'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:938:in `expr!'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:701:in `pseudo'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:587:in `simple_selector_sequence'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:567:in `_selector'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:546:in `selector'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/css_parser.rb:16:in `block in parse_selector_string'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:868:in `str'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/css_parser.rb:16:in `parse_selector_string'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:135:in `directive'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:480:in `block_child'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:470:in `block_contents'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:58:in `stylesheet'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/scss/parser.rb:27:in `parse'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/engine.rb:327:in `_to_tree'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/engine.rb:300:in `_render'
-/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.1.20/lib/sass/engine.rb:247:in `render'
+/Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss:25
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:1146:in `expected'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:1084:in `expected'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:1066:in `expr!'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:794:in `pseudo'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:672:in `simple_selector_sequence'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:640:in `_selector'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:619:in `selector'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:156:in `directive'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:553:in `block_child'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:543:in `block_contents'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:82:in `stylesheet'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/scss/parser.rb:27:in `parse'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/engine.rb:342:in `_to_tree'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/engine.rb:315:in `_render'
+/Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/sass-3.2.9/lib/sass/engine.rb:262:in `render'
 /Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
 /Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
 /Users/johan/.rvm/gems/ruby-2.0.0-p247/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
@@ -49,4 +44,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"@fontAwesomePath:\": expected pseudoclass or pseudoelement, was \" '../font';\"\A         on line 1 of /Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss\A \A 1: /Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss"; }
+  content: "Syntax error: Invalid CSS after \"@fontAwesomePath:\": expected pseudoclass or pseudoelement, was \" '../font';\"\A         on line 25 of /Users/johan/Documents/Projects/personal/octopress/sass/font-awesome.scss"; }
