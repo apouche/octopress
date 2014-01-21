@@ -14,5 +14,5 @@ I'm now a Senior iOS Developer <a href="http://www.preplaysports.com/">@PrePlayS
 Follow me on:
 <a href="https://github.com/apouche"><img width=16 src="http://github.com/favicon.ico" /></a>
 <a href="https://twitter.com/apouche"><img src="https://twitter.com/favicon.ico" /></a> 
-<a href="http://www.linkedin.com/profile/view?id=16227199"><img width=16 src="http://www.linkedin.com/favicon.ico" /></a>
+<a href="http://fr.linkedin.com/in/johanattali"><img width=16 src="http://www.linkedin.com/favicon.ico" /></a>
 <a href="http://www.flickr.com/photos/apouche"><img width=16 src="http://www.flickr.com/favicon.ico" /></a>
