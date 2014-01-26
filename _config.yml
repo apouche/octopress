@@ -98,3 +98,7 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+# Portfolio
+portfolio_root: /portfolio
+portfolio_path: /Users/johan/Documents/Projects/personal/octopress/source/portfolio
