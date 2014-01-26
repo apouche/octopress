@@ -1,11 +1,13 @@
 ---
 layout: page
-title: "about"
+title: "Johan Attali - iOS Developer - About"
 date: 2014-01-20 17:17
 comments: true
 sharing: true
 footer: true
 ---
+
+<div class="right" style="float:right; width:200px"><img src="/images/portfolio/profile.png" /></div>
 
 I started iOS developement with the first iOS SDK released and never quit its awesomeness.
 
