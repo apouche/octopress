@@ -11,7 +11,7 @@ footer: true
 
 I started iOS developement with the first iOS SDK released and never quit its awesomeness.
 
-I'm now a Senior iOS Developer <a href="http://www.preplaysports.com/">@PrePlaySports</a>, with a black belt of Karate Do, a passion for <a href="http://www.flickr.com/photos/apouche">shooting things</a> all around, while observing <a href="http://www.youtube.com/watch?v=8zJ2toElPvQ">dark skies</a> all night long... You don't mess with the Johan.
+I'm now a Senior iOS Developer <a href="http://www.preplaysports.com/">@PrePlaySports</a>, with a black belt of <a href="http://www.youtube.com/watch?v=7rcipmmOH3w&feature=youtu.be">Karate Do</a>, a passion for <a href="http://www.flickr.com/photos/apouche">shooting things</a> all around, while observing <a href="http://www.youtube.com/watch?v=8zJ2toElPvQ">dark skies</a> all night long... You don't mess with the Johan.
 
 Follow me on:
 <a href="https://github.com/apouche"><img width=16 src="http://github.com/favicon.ico" /></a>
