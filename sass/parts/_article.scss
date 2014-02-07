@@ -100,19 +100,24 @@ article{
 			}
 		}
 		
-		img, video{
+		img, video {
 			max-width: 100%;
 			height: auto;
-			-webkit-border-radius:5px;
-			-moz-border-radius:5px;
-			border-radius:5px;
-			-webkit-border-radius:5px;
-			-moz-border-radius:5px;
-			border-radius:5px;
-			-webkit-box-shadow:0 0 15px rgba(0,0,0,0.35);
-			-moz-box-shadow:0 0 15px rgba(0,0,0,0.35);
-			box-shadow:0 0 15px rgba(0,0,0,0.35);
 			border-bottom: 0px;
+			&.border {
+				max-width: 100%;
+				height: auto;
+				-webkit-border-radius:5px;
+				-moz-border-radius:5px;
+				border-radius:5px;
+				-webkit-border-radius:5px;
+				-moz-border-radius:5px;
+				border-radius:5px;
+				-webkit-box-shadow:0 0 15px rgba(0,0,0,0.35);
+				-moz-box-shadow:0 0 15px rgba(0,0,0,0.35);
+				box-shadow:0 0 15px rgba(0,0,0,0.35);
+				border-bottom: 0px;
+			}
 		}
 		
 		blockquote{
@@ -127,6 +132,7 @@ article{
 		iframe{
 			border: none;
 		}
+
 		kbd {
 			padding: 0.1em 0.6em;
 			border: 1px solid #ccc;
