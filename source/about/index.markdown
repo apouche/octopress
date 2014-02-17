@@ -14,7 +14,7 @@ I started iOS developement with the first iOS SDK released and never quit its aw
 I'm now a Senior iOS Developer <a href="http://www.preplaysports.com/">@PrePlaySports</a>, with a black belt of <a href="http://www.youtube.com/watch?v=7rcipmmOH3w&feature=youtu.be">Karate Do</a>, a passion for <a href="http://www.flickr.com/photos/apouche">shooting things</a> all around, while observing <a href="http://www.youtube.com/watch?v=8zJ2toElPvQ">dark skies</a> all night long... You don't mess with the Johan.
 
 Follow me on:
-<a href="https://github.com/apouche"><img width=16 src="http://github.com/favicon.ico" /></a>
-<a href="https://twitter.com/apouche"><img src="https://twitter.com/favicon.ico" /></a> 
-<a href="http://fr.linkedin.com/in/johanattali"><img width=16 src="http://www.linkedin.com/favicon.ico" /></a>
-<a href="http://www.flickr.com/photos/apouche"><img width=16 src="http://www.flickr.com/favicon.ico" /></a>
+<a href="https://github.com/apouche">![github](/images/pack/github_alt.png "github")</a>
+<a href="https://twitter.com/apouche">![twitter](/images/pack/twitter_alt.png "twitter")</a> 
+<a href="http://fr.linkedin.com/in/johanattali">![linkedin](/images/pack/linkedin.png "linkedin")</a>
+<a href="http://www.flickr.com/photos/apouche">![flickr](/images/pack/flickr.png "flickr")</a>
